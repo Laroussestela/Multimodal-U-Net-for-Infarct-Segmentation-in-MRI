@@ -44,6 +44,7 @@ Cada modelo se entrenó con la misma configuración y datos durante **100 época
 ![image](https://github.com/user-attachments/assets/1dc78d65-f3e7-47df-b8d7-a54c9f10860b)
 
 ![image](https://github.com/user-attachments/assets/b553fca5-df06-44c9-93f3-72075b12135d)
+
 Predicciones de modelos U-Net en Strokecase0048, capa 37 tras el entreno
 
 
